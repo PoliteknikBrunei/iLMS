@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.moodle.moodlemobile" version="3.5.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Moodle</name>
-    <description>Moodle official app</description>
-    <author email="mobile@moodle.com" href="http://moodle.com">Moodle Mobile team</author>
+<widget id="com.pb.ilms" version="3.5.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>iLMS</name>
+    <description>Politeknik Brunei LMS companion app, iLMS</description>
+    <author email="bahit.hamid@pb.edu.com" href="http://www.pb.edu.bn/app">iLMS</author>
     <content src="index.html" />
     <access origin="*" />
     <access launch-external="yes" origin="tel:*" />
@@ -112,7 +112,7 @@
     <plugin name="cordova-clipboard" spec="1.1.0" />
     <plugin name="nl.kingsquare.cordova.background-audio" spec="1.0.1" />
     <plugin name="phonegap-plugin-push" spec="1.9.2">
-        <variable name="SENDER_ID" value="694767596569" />
+        <variable name="SENDER_ID" value="520497158140" />
     </plugin>
     <plugin name="cordova-plugin-customurlscheme" spec="4.3.0">
         <variable name="URL_SCHEME" value="moodlemobile" />

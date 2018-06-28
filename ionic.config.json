@@ -1,6 +1,6 @@
 {
-  "name": "moodlemobile",
-  "app_id": "com.moodle.moodlemobile",
+  "name": "ilms",
+  "app_id": "com.pb.ilms",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {},
